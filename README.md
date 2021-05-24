@@ -1,6 +1,6 @@
 # Lab8_Starter
 
-Lucas Bajoua and Jarrett Ratelle
+Names: Lucas Bajoua and Jarrett Ratelle
 
 ## Check your understanding q's (FILL OUT)
 
@@ -23,3 +23,5 @@ Lucas Bajoua and Jarrett Ratelle
    await page.click("img");
    await page.waitForTimeout(500);
    });
+   
+ (Screenshot of npm test results is in repository)
